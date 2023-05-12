@@ -24008,7 +24008,7 @@ $.C.toString
 s=2
 return A.W(A.a5w(),$async$Gf)
 case 2:s=3
-return A.W(A.a7r(A.aBi("AIzaSyBowghl3xhIPoaCfyBxWSHRBzHbjlbHPg4","1:68270058923:android:1c07be5aa1f8b39c5f76ee","ojifadslnmk.github.io",null,null,"","mpm-app-a4d30",null)),$async$Gf)
+return A.W(A.a7r(A.aBi("AIzaSyBowghl3xhIPoaCfyBxWSHRBzHbjlbHPg4","1:68270058923:android:1c07be5aa1f8b39c5f76ee","mpm-app-a4d30.firebaseapp.com",null,null,"","mpm-app-a4d30",null)),$async$Gf)
 case 3:$.ff().$3$level$stackTrace("Start",B.bU,null)
 if($.C==null)A.aDT()
 q=$.C
